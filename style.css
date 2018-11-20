@@ -208,11 +208,6 @@ hr.light-100{
     font-size: 2em;
     padding: 1rem;
   }
-  iframe:gmap_canvas{
-    width: 300px;
-    height: 250px;
-
-  }
 }
 
 
