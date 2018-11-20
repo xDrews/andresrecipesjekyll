@@ -83,7 +83,7 @@
     .carousel-caption {
         position: absolute;
         right: 15%;
-        bottom: 15px;
+        bottom: 50px;
         left: 15%;
         z-index: 10;
         padding-top: 20px;
@@ -230,10 +230,6 @@
     .carousel-caption .btn{
       font-size: 65%;
       padding: 4px 8px;
-    }
-
-    .carousel-indicators{
-      display: none;
     }
 
     .social a{
