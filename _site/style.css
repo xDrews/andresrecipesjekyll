@@ -25,8 +25,16 @@ html, body {
 
 }
 
-.carousel-caption{
-  font-size: 50px;
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 15px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: bottom;
 }
 
 .btn-primary {
@@ -138,6 +146,7 @@ hr.light-100{
   margin-bottom: 1rem;
 }
 
+
 /*---Media Queries --*/
 @media (max-width: 992px) {
   .social a {
@@ -186,6 +195,11 @@ hr.light-100{
   .social a{
     font-size: 2em;
     padding: 1rem;
+  }
+  iframe:gmap_canvas{
+    width: 300px;
+    height: 250px;
+
   }
 }
 
