@@ -165,14 +165,16 @@
       }
       /* Social media icons styling finishes*/
 
-    .emojisbutton {
-        text-align: center;
-    }
+    /* Emojis styling   */
+      .emojisbutton {
+          text-align: center;
+      }
 
-    .fun{
-      width: 100%
-      margin-bottom:2rem;
-    }
+      .fun{
+        width: 100%
+        margin-bottom:2rem;
+      }
+    /* Emojis styling finishes */
 
     .gif{
       max-width: 100%;
@@ -274,7 +276,7 @@
     padding: 1rem;
   }
 }
-/* Media queries to make it responsive in all devices finishes */
+/* Media queries finishes */
 
 /*--- Bootstrap Padding Fix --*/
 [class*="col-"] {
