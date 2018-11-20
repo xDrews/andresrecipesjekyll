@@ -197,7 +197,7 @@
   }
 
   #fixed {
-    background-image: url('img/fix.jpg');
+    background-image: url('img/fox3.png');
     position: fixed;
     display: block;
     top: 0;
@@ -211,7 +211,7 @@
     will-change: transform;
   }
 
-  #fixed {
+  #imgfixed {
       width: 100%;
       height: 100%;
   }
