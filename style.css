@@ -220,7 +220,7 @@
 
   @media (max-width: 576px) {
     .carousel-caption{
-      top: 40%;
+      top: 30%;
     }
 
     .carousel-caption h1{
